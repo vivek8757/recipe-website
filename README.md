@@ -1,3 +1,3 @@
 # recipe-website
 recipe project
-using our html skills to make arecipe website
+using my html skills to make a recipe website
